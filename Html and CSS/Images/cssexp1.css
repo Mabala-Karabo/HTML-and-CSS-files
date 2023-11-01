@@ -1,0 +1,12 @@
+<style type="text/css">
+  #headline {
+    text-align: center;
+  }
+  .summary {
+    font-style: italic;
+  }
+</style>
+...
+<h1 id="headline">Big News!</h1>
+<p class="summary">This is the text of the story summary. It should be shown in italics.</p>
+<p>This is the main story text. It has no special styling yet.</p> 

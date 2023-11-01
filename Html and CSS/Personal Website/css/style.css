@@ -1,0 +1,26 @@
+<style type = "type/css">
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+	color: blue;
+}
+
+.container {
+    width: 960px;
+    /* You can also add other styling for your container */
+}
+h1 {
+	height: 150px;
+}
+footer{
+	justify-content: down;
+    align-items: down;
+	height: 50px;
+}
+
+</style>

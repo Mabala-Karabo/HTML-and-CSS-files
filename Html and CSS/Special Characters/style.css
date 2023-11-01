@@ -1,0 +1,33 @@
+<style type = "text/css">
+
+
+.col1{
+	width: 60%;
+}
+.col2{
+	width: 40%
+}
+body{
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+}
+table {
+	width: 600px;
+}
+div {
+	text-align: center;
+}
+#header{
+	background-color: aqua;
+}
+.odd{
+	background-color: lime;
+	text-align: center;
+}
+.even{
+	background-color: yellow;
+	text-align: center;
+}
+
+
+</style>

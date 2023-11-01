@@ -1,0 +1,55 @@
+<style type = "text/css">
+
+.flag1a{
+	width: 400px;
+	height: 80px;
+	border: 5px solid blue;
+	background-color: yellow;
+	padding: 10px;
+	margin: 10px;
+}
+.flag1b{
+	width: 400px;
+	height: 80px;
+	border: 5px solid red;
+	background-color: green;
+	padding: 10px;
+	margin: 10px;
+}
+.flag1c{
+	width: 400px;
+	height: 80px;
+	border: 5px solid blue;
+	background-color: red;
+	padding: 10px;
+	margin: 10px;
+}
+
+.part1{
+	width: 133px;
+	height: 240px;
+	background-color: yellow;
+	margin: 100px 0px 0px 50px;
+	padding: 40px 40px 40px 40px;
+	border-width: 133px;
+	border-left-style: solid;
+	border-left-color: blue;
+	border-right-style: solid;
+	border-right-color: red;
+}
+.part2{
+	width: 300px;
+	height: 375px;
+	margin: 100px 0px 0px 5px;
+	padding: 40px 40px 40px 40px;
+	border-top-style: dashed;
+	border-bottom-style: solid;
+	border-bottom-color: blue;
+	border-top-color: red;
+	border-left-style: dashed;
+	border-left-color: red;
+	border-right-style: solid;
+	border-right-color: green;
+	
+}
+</style>

@@ -1,0 +1,22 @@
+<style type="text/css">
+ 
+h1 {color:purple; text-align:center; font-family:Times New Roman;}
+li {color:blue;}
+p  {color:orange; font-family:arial}
+td {color:red;}
+h2 {color:green}
+th {font-style:italic; font-weight:bold;}
+
+
+#headline{color:red;font-family:Times New Roman;font-style:italic} 
+ 
+ .headings{color:blue; font-family:arial; font-style:italic}
+ 
+ a:link{color:blue;}
+ a:visited{color:green;}
+ a:hover{color:black;}
+ a:active{color:red;}
+ 
+body{background-image:url('PitBull1.jpg'); background-repeat: no-repeat;}
+ 
+</style>

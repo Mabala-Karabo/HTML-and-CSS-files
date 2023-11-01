@@ -1,0 +1,30 @@
+<style type="text/css">
+table {
+      background-color: gray;
+    }
+.glossary {width: 650px; text-align: center; background-color: gray; font-weight:bold;"
+}
+th {
+	font-size: 30;
+	font-style: bold;
+    border-width: 2px;
+    border-style: solid;
+	border-color: black;
+  }
+td {border-width: 2px;
+    border-style: dashed;
+    border-color: blue;
+	padding: 20px;
+
+}
+.col1 {width: 20%;}
+.col2 {width: 20%;}
+.col3 {width: 20%;}
+.col4 {width: 20%;}
+.col5 {width: 20%;}
+.collapse {border-collapse: collapse;}
+.alignment{
+	text-align: center;
+}
+
+</style>
